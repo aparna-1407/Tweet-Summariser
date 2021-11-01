@@ -16,4 +16,4 @@ Module3_NER_final.ipynb contains code for named entity recognition and the gazet
 Three methods are used for event detection and summarisation- TFIDF, Frequency based scoring and finally Textrank algorithm. The output summaries of each of these methods are evaluated using rogue scores and the best summary is improved by incorporating tweets from credible source- BCCI. 
 The codes for these modules are MODULE4&5_NEW_tfidf_withtimestamps.ipynb, MODULE4&5_NEW_tweetscoring_withtimestamps.ipynb, MODULE4&5_textranksummariser.ipynb, MODULE4_NEW_burstdetection_withtimestamps.ipynb and MODULE5_RougeScores.ipynb.
 
-Detailed documentation of this project can be found here: 
+Detailed documentation of this project can be found here: https://www.irjmets.com/uploadedfiles/paper/volume_3/issue_9_september_2021/16192/final/fin_irjmets1631785095.pdf 
