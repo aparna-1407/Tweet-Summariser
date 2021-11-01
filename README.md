@@ -11,4 +11,5 @@ MODULE1_cursor.ipynb, MODULE1_jsontocsv_NEW_BCCI.ipynb and MODULE1_streamapi.ipy
 ## Preprocessing:
 MODULE2_preprocessing.ipynb contains code for preprocessing and INDvsENGds_updated3.csv is the preprocessed dataset
 ## Named Entity Recognition:
+Module3_NER_final.ipynb contains code for named entity recognition and the gazette files used are Players.txt, Teams.txt and Venue.txt
 
