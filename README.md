@@ -12,4 +12,6 @@ MODULE1_cursor.ipynb, MODULE1_jsontocsv_NEW_BCCI.ipynb and MODULE1_streamapi.ipy
 MODULE2_preprocessing.ipynb contains code for preprocessing and INDvsENGds_updated3.csv is the preprocessed dataset
 ## Named Entity Recognition:
 Module3_NER_final.ipynb contains code for named entity recognition and the gazette files used are Players.txt, Teams.txt and Venue.txt
-
+## Event Detection and Summarisation
+Three methods are used for event detection and summarisation- TFIDF, Frequency based scoring and finally Textrank algorithm. The output summaries of each of these methods are evaluated using rogue scores and the best summary is improved by incorporating tweets from credible source- BCCI. 
+The codes for these modules are 
