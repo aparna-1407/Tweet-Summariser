@@ -7,6 +7,6 @@ Crowd sourced Summariser for highlights of a sports match using tweets correspon
 
 # How to access Repository
 Dataacquisition:
-MODULE1_cursor.ipynb,MODULE1_jsontocsv_NEW_BCCI.ipynb MODULE1_streamapi.ipynbINDvsENGds.csv is the original data collected from twitter before pre processing, collection and storage is given in 
+MODULE1_cursor.ipynb <src="https://github.com/aparna-1407/Tweet-Summariser/blob/main/MODULE1_cursor.ipynb">,MODULE1_jsontocsv_NEW_BCCI.ipynb "MODULE1_streamapi.ipynbINDvsENGds.csv is the original data collected from twitter before pre processing, collection and storage is given in 
           INDvsENGds_updated3.csv is the dataset after preprocessing 
           
